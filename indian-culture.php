@@ -31,9 +31,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/assets/img/Andhra-Pradesh/ap-main.jpg" class="card-img-top" alt="Andhra Pradesh"> <!-- Images are being deferred to fasten the page load time -->
+                        <img data-src="/assets/img/Andhra-Pradesh/ap-main.JPG" class="card-img-top" alt="Andhra Pradesh"> <!-- Images are being deferred to fasten the page load time -->
                         <noscript> <!-- Fallback for old browsers/JavaScript Disabled browsers -->
-                            <img src="/assets/img/Andhra-Pradesh/ap-main.jpg" class="card-img-top" alt="Andhra Pradesh">
+                            <img src="/assets/img/Andhra-Pradesh/ap-main.JPG" class="card-img-top" alt="Andhra Pradesh">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Andhra Pradesh</h3>
@@ -46,9 +46,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/assets/img/Arunachal-Pradesh/aru-p-main.JPG" class="card-img-top" alt="Arunachal Pradesh" height="39%">
+                        <img data-src="/assets/img/Arunachal-Pradesh/aru-p-main.jpg" class="card-img-top" alt="Arunachal Pradesh" height="39%">
                         <noscript>
-                            <img src="/assets/img/Arunachal-Pradesh/aru-p-main.JPG" class="card-img-top" alt="Arunachal Pradesh" height="39%">
+                            <img src="/assets/img/Arunachal-Pradesh/aru-p-main.jpg" class="card-img-top" alt="Arunachal Pradesh" height="39%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Arunachal Pradesh</h3>
