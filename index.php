@@ -31,7 +31,7 @@
             <div class="home-content">
                 <span class="quotes"></span> &nbsp;&nbsp;
             </div>
-            <div class="home-buttons"><a href="/BFX/indian-culture" class="btn btn-learn">Learn More</a></div>
+            <div class="home-buttons"><a href="/indian-culture" class="btn btn-learn">Learn More</a></div>
         </div>
         <div class="mid-section text-dark">
             <div class="container p-5 font-mont">

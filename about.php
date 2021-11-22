@@ -31,7 +31,7 @@
                 Indian Culture. People speak in different languages, dress differently, follow different religions, eat different food but are of the same temperament. So whether it is a joyous occasion or a moment of grief, people participate wholeheartedly, feeling happiness or pain. A festival or a celebration is never constrained to a family or a home. The whole community or neighborhood is involved in bringing liveliness to an occasion. Likewise, an Indian wedding is a celebration of union, not only of the bride and
                 groom but also of two families, maybe cultures or religion too! Similarly, in times of sorrow,
                 neighbors and friends play an essential part in easing grief.</h4>
-            <div class="home-buttons text-center"><a href="/BFX/indian-culture" class="btn btn-learn my-5">Learn More</a></div>
+            <div class="home-buttons text-center"><a href="/indian-culture" class="btn btn-learn my-5">Learn More</a></div>
         </div>
     </div>
     <?php include("footer.php"); ?>

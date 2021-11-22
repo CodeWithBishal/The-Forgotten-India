@@ -31,9 +31,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Andhra-Pradesh/ap-main.jpg" class="card-img-top" alt="Andhra Pradesh"> <!-- Images are being deferred to fasten the page load time -->
+                        <img data-src="/assets/img/Andhra-Pradesh/ap-main.jpg" class="card-img-top" alt="Andhra Pradesh"> <!-- Images are being deferred to fasten the page load time -->
                         <noscript> <!-- Fallback for old browsers/JavaScript Disabled browsers -->
-                            <img src="/BFX/assets/img/Andhra-Pradesh/ap-main.jpg" class="card-img-top" alt="Andhra Pradesh">
+                            <img src="/assets/img/Andhra-Pradesh/ap-main.jpg" class="card-img-top" alt="Andhra Pradesh">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Andhra Pradesh</h3>
@@ -46,9 +46,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Arunachal-Pradesh/aru-p-main.jpg" class="card-img-top" alt="Arunachal Pradesh" height="39%">
+                        <img data-src="/assets/img/Arunachal-Pradesh/aru-p-main.jpg" class="card-img-top" alt="Arunachal Pradesh" height="39%">
                         <noscript>
-                            <img src="/BFX/assets/img/Arunachal-Pradesh/aru-p-main.jpg" class="card-img-top" alt="Arunachal Pradesh" height="39%">
+                            <img src="/assets/img/Arunachal-Pradesh/aru-p-main.jpg" class="card-img-top" alt="Arunachal Pradesh" height="39%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Arunachal Pradesh</h3>
@@ -63,9 +63,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/assam/assam-main.jpg" class="card-img-top" alt="Assam">
+                        <img data-src="/assets/img/assam/assam-main.jpg" class="card-img-top" alt="Assam">
                         <noscript>
-                            <img src="/BFX/assets/img/assam/assam-main.jpg" class="card-img-top" alt="Assam">
+                            <img src="/assets/img/assam/assam-main.jpg" class="card-img-top" alt="Assam">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Assam</h3>
@@ -78,9 +78,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/bihar/bihar-main.jpg" class="card-img-top" alt="Bihar">
+                        <img data-src="/assets/img/bihar/bihar-main.jpg" class="card-img-top" alt="Bihar">
                         <noscript>
-                            <img src="/BFX/assets/img/bihar/bihar-main.jpg" class="card-img-top" alt="Bihar">
+                            <img src="/assets/img/bihar/bihar-main.jpg" class="card-img-top" alt="Bihar">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Bihar</h3>
@@ -95,9 +95,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Chhattisgarh/Chhattisgarh-main.jpg" class="card-img-top" alt="Chhattisgarh" height="44%">
+                        <img data-src="/assets/img/Chhattisgarh/Chhattisgarh-main.jpg" class="card-img-top" alt="Chhattisgarh" height="44%">
                         <noscript>
-                            <img src="/BFX/assets/img/Chhattisgarh/Chhattisgarh-main.jpg" class="card-img-top" alt="Chhattisgarh" height="44%">
+                            <img src="/assets/img/Chhattisgarh/Chhattisgarh-main.jpg" class="card-img-top" alt="Chhattisgarh" height="44%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Chhattisgarh</h3>
@@ -110,9 +110,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/goa/goa-main.jpg" class="card-img-top" alt="Goa">
+                        <img data-src="/assets/img/goa/goa-main.jpg" class="card-img-top" alt="Goa">
                         <noscript>
-                            <img src="/BFX/assets/img/goa/goa-main.jpg" class="card-img-top" alt="Goa">
+                            <img src="/assets/img/goa/goa-main.jpg" class="card-img-top" alt="Goa">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Goa</h3>
@@ -127,9 +127,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Gujarat/gujarat-main.jpg" class="card-img-top" alt="Gujarat">
+                        <img data-src="/assets/img/Gujarat/gujarat-main.jpg" class="card-img-top" alt="Gujarat">
                         <noscript>
-                        <img src="/BFX/assets/img/Gujarat/gujarat-main.jpg" class="card-img-top" alt="Gujarat">
+                        <img src="/assets/img/Gujarat/gujarat-main.jpg" class="card-img-top" alt="Gujarat">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Gujarat</h3>
@@ -142,9 +142,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Haryana/Haryana-main.jpg" class="card-img-top" alt="Haryana">
+                        <img data-src="/assets/img/Haryana/Haryana-main.jpg" class="card-img-top" alt="Haryana">
                         <noscript>
-                        <img src="/BFX/assets/img/Haryana/Haryana-main.jpg" class="card-img-top" alt="Haryana">
+                        <img src="/assets/img/Haryana/Haryana-main.jpg" class="card-img-top" alt="Haryana">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Haryana</h3>
@@ -159,9 +159,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Himachal-Pradesh/hp-main.jpg" class="card-img-top" alt="Himachal Pradesh" height="39%">
+                        <img data-src="/assets/img/Himachal-Pradesh/hp-main.jpg" class="card-img-top" alt="Himachal Pradesh" height="39%">
                         <noscript>
-                        <img src="/BFX/assets/img/Himachal-Pradesh/hp-main.jpg" class="card-img-top" alt="Himachal Pradesh" height="39%">
+                        <img src="/assets/img/Himachal-Pradesh/hp-main.jpg" class="card-img-top" alt="Himachal Pradesh" height="39%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Himachal Pradesh</h3>
@@ -174,9 +174,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Jharkhand/Jharkhand-main.jpg" class="card-img-top" alt="Jharkhand">
+                        <img data-src="/assets/img/Jharkhand/Jharkhand-main.jpg" class="card-img-top" alt="Jharkhand">
                         <noscript>
-                        <img src="/BFX/assets/img/Jharkhand/Jharkhand-main.jpg" class="card-img-top" alt="Jharkhand">
+                        <img src="/assets/img/Jharkhand/Jharkhand-main.jpg" class="card-img-top" alt="Jharkhand">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Jharkhand</h3>
@@ -191,9 +191,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Karnataka/Karnataka-main.jpg" class="card-img-top" alt="Karnataka" height="37%">
+                        <img data-src="/assets/img/Karnataka/Karnataka-main.jpg" class="card-img-top" alt="Karnataka" height="37%">
                         <noscript>
-                        <img src="/BFX/assets/img/Karnataka/Karnataka-main.jpg" class="card-img-top" alt="Karnataka" height="37%">
+                        <img src="/assets/img/Karnataka/Karnataka-main.jpg" class="card-img-top" alt="Karnataka" height="37%">
                             
                         </noscript>
                         <div class="card-body">
@@ -207,9 +207,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Kerela/Kerela-main.jpg" class="card-img-top" alt="Kerela">
+                        <img data-src="/assets/img/Kerela/Kerela-main.jpg" class="card-img-top" alt="Kerela">
                         <noscript>
-                        <img src="/BFX/assets/img/Kerela/Kerela-main.jpg" class="card-img-top" alt="Kerela">
+                        <img src="/assets/img/Kerela/Kerela-main.jpg" class="card-img-top" alt="Kerela">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Kerela</h3>
@@ -224,9 +224,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Madhya-Pradesh/mp-main.jpg" class="card-img-top" alt="Madhya Pradesh">
+                        <img data-src="/assets/img/Madhya-Pradesh/mp-main.jpg" class="card-img-top" alt="Madhya Pradesh">
                         <noscript>
-                        <img src="/BFX/assets/img/Madhya-Pradesh/mp-main.jpg" class="card-img-top" alt="Madhya Pradesh">
+                        <img src="/assets/img/Madhya-Pradesh/mp-main.jpg" class="card-img-top" alt="Madhya Pradesh">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Madhya Pradesh</h3>
@@ -239,9 +239,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Maharashtra/Maharashtra-main.jpg" class="card-img-top" alt="Maharashtra" height="43%">
+                        <img data-src="/assets/img/Maharashtra/Maharashtra-main.jpg" class="card-img-top" alt="Maharashtra" height="43%">
                         <noscript>
-                        <img src="/BFX/assets/img/Maharashtra/Maharashtra-main.jpg" class="card-img-top" alt="Maharashtra" height="43%">
+                        <img src="/assets/img/Maharashtra/Maharashtra-main.jpg" class="card-img-top" alt="Maharashtra" height="43%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Maharashtra</h3>
@@ -256,9 +256,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Manipur/Manipur-main.jpg" class="card-img-top" alt="Manipur">
+                        <img data-src="/assets/img/Manipur/Manipur-main.jpg" class="card-img-top" alt="Manipur">
                         <noscript>
-                        <img src="/BFX/assets/img/Manipur/Manipur-main.jpg" class="card-img-top" alt="Manipur">
+                        <img src="/assets/img/Manipur/Manipur-main.jpg" class="card-img-top" alt="Manipur">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Manipur</h3>
@@ -271,9 +271,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Meghalaya/Meghalaya-main.jpg" class="card-img-top" alt="Meghalaya" height="39%">
+                        <img data-src="/assets/img/Meghalaya/Meghalaya-main.jpg" class="card-img-top" alt="Meghalaya" height="39%">
                         <noscript>
-                        <img src="/BFX/assets/img/Meghalaya/Meghalaya-main.jpg" class="card-img-top" alt="Meghalaya" height="39%">
+                        <img src="/assets/img/Meghalaya/Meghalaya-main.jpg" class="card-img-top" alt="Meghalaya" height="39%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Meghalaya</h3>
@@ -288,9 +288,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Mizoram/Mizoram-main.jpg" class="card-img-top" alt="Mizoram">
+                        <img data-src="/assets/img/Mizoram/Mizoram-main.jpg" class="card-img-top" alt="Mizoram">
                         <noscript>
-                        <img src="/BFX/assets/img/Mizoram/Mizoram-main.jpg" class="card-img-top" alt="Mizoram">
+                        <img src="/assets/img/Mizoram/Mizoram-main.jpg" class="card-img-top" alt="Mizoram">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Mizoram</h3>
@@ -303,9 +303,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Nagaland/Nagaland-main.jpg" class="card-img-top" alt="Nagaland">
+                        <img data-src="/assets/img/Nagaland/Nagaland-main.jpg" class="card-img-top" alt="Nagaland">
                         <noscript>
-                        <img src="/BFX/assets/img/Nagaland/Nagaland-main.jpg" class="card-img-top" alt="Nagaland">
+                        <img src="/assets/img/Nagaland/Nagaland-main.jpg" class="card-img-top" alt="Nagaland">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Nagaland</h3>
@@ -320,9 +320,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Odisha/Odisha-main.jpg" class="card-img-top" alt="Odisha" height="42%">
+                        <img data-src="/assets/img/Odisha/Odisha-main.jpg" class="card-img-top" alt="Odisha" height="42%">
                         <noscript>
-                        <img src="/BFX/assets/img/Odisha/Odisha-main.jpg" class="card-img-top" alt="Odisha" height="42%">
+                        <img src="/assets/img/Odisha/Odisha-main.jpg" class="card-img-top" alt="Odisha" height="42%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Odisha</h3>
@@ -335,9 +335,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Punjab/Punjab-main.jpg" class="card-img-top" alt="Punjab">
+                        <img data-src="/assets/img/Punjab/Punjab-main.jpg" class="card-img-top" alt="Punjab">
                         <noscript>
-                        <img src="/BFX/assets/img/Punjab/Punjab-main.jpg" class="card-img-top" alt="Punjab">
+                        <img src="/assets/img/Punjab/Punjab-main.jpg" class="card-img-top" alt="Punjab">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Punjab</h3>
@@ -352,9 +352,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Rajasthan/Rajasthan-main.jpg" class="card-img-top" alt="Rajasthan">
+                        <img data-src="/assets/img/Rajasthan/Rajasthan-main.jpg" class="card-img-top" alt="Rajasthan">
                         <noscript>
-                        <img src="/BFX/assets/img/Rajasthan/Rajasthan-main.jpg" class="card-img-top" alt="Rajasthan">
+                        <img src="/assets/img/Rajasthan/Rajasthan-main.jpg" class="card-img-top" alt="Rajasthan">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Rajasthan</h3>
@@ -367,9 +367,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Sikkim/Sikkim-main.jpg" class="card-img-top" alt="Sikkim" height="43%">
+                        <img data-src="/assets/img/Sikkim/Sikkim-main.jpg" class="card-img-top" alt="Sikkim" height="43%">
                         <noscript>
-                        <img src="/BFX/assets/img/Sikkim/Sikkim-main.jpg" class="card-img-top" alt="Sikkim" height="43%">
+                        <img src="/assets/img/Sikkim/Sikkim-main.jpg" class="card-img-top" alt="Sikkim" height="43%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Sikkim</h3>
@@ -384,9 +384,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Tamil-Nadu/tn-main.jpg" class="card-img-top" alt="Tamil Nadu">
+                        <img data-src="/assets/img/Tamil-Nadu/tn-main.jpg" class="card-img-top" alt="Tamil Nadu">
                         <noscript>
-                        <img src="/BFX/assets/img/Tamil-Nadu/tn-main.jpg" class="card-img-top" alt="Tamil Nadu">
+                        <img src="/assets/img/Tamil-Nadu/tn-main.jpg" class="card-img-top" alt="Tamil Nadu">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Tamil Nadu</h3>
@@ -399,9 +399,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Telangana/Telangana-main.jpg" class="card-img-top" alt="Telangana" height="42%">
+                        <img data-src="/assets/img/Telangana/Telangana-main.jpg" class="card-img-top" alt="Telangana" height="42%">
                         <noscript>
-                        <img src="/BFX/assets/img/Telangana/Telangana-main.jpg" class="card-img-top" alt="Telangana" height="42%">
+                        <img src="/assets/img/Telangana/Telangana-main.jpg" class="card-img-top" alt="Telangana" height="42%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Telangana</h3>
@@ -416,9 +416,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Tripura/Tripura-main.jpg" class="card-img-top" alt="Tripura">
+                        <img data-src="/assets/img/Tripura/Tripura-main.jpg" class="card-img-top" alt="Tripura">
                         <noscript>
-                        <img src="/BFX/assets/img/Tripura/Tripura-main.jpg" class="card-img-top" alt="Tripura">
+                        <img src="/assets/img/Tripura/Tripura-main.jpg" class="card-img-top" alt="Tripura">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Tripura</h3>
@@ -431,9 +431,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Uttarakhand/Uttarakhand-main.jpg" class="card-img-top" alt="Uttarakhand" height="35%">
+                        <img data-src="/assets/img/Uttarakhand/Uttarakhand-main.jpg" class="card-img-top" alt="Uttarakhand" height="35%">
                         <noscript>
-                            <img src="/BFX/assets/img/Uttarakhand/Uttarakhand-main.jpg" class="card-img-top" alt="Uttarakhand" height="35%">
+                            <img src="/assets/img/Uttarakhand/Uttarakhand-main.jpg" class="card-img-top" alt="Uttarakhand" height="35%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Uttarakhand</h3>
@@ -448,9 +448,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Uttar-Pradesh/up-main.jpg" class="card-img-top" alt="Uttar Pradesh" height="47%">
+                        <img data-src="/assets/img/Uttar-Pradesh/up-main.jpg" class="card-img-top" alt="Uttar Pradesh" height="47%">
                         <noscript>
-                            <img src="/BFX/assets/img/Uttar-Pradesh/up-main.jpg" class="card-img-top" alt="Uttar Pradesh" height="47%">
+                            <img src="/assets/img/Uttar-Pradesh/up-main.jpg" class="card-img-top" alt="Uttar Pradesh" height="47%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Uttar Pradesh</h3>
@@ -463,9 +463,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/West-Bengal/wb-main.jpg" class="card-img-top" alt="West Bengal">
+                        <img data-src="/assets/img/West-Bengal/wb-main.jpg" class="card-img-top" alt="West Bengal">
                         <noscript>
-                        <img src="/BFX/assets/img/West-Bengal/wb-main.jpg" class="card-img-top" alt="West Bengal">
+                        <img src="/assets/img/West-Bengal/wb-main.jpg" class="card-img-top" alt="West Bengal">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">West Bengal</h3>
@@ -482,9 +482,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Andaman-and-Nicobar-Island/An-main.jpg" class="card-img-top" alt="Andaman and Nicobar Island">
+                        <img data-src="/assets/img/Andaman-and-Nicobar-Island/An-main.jpg" class="card-img-top" alt="Andaman and Nicobar Island">
                         <noscript>
-                            <img src="/BFX/assets/img/Andaman-and-Nicobar-Island/An-main.jpg" class="card-img-top" alt="Andaman and Nicobar Island">
+                            <img src="/assets/img/Andaman-and-Nicobar-Island/An-main.jpg" class="card-img-top" alt="Andaman and Nicobar Island">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Andaman and Nicobar Island</h3>
@@ -497,9 +497,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Chandigarh/Chandigarh-main.jpg" class="card-img-top" alt="Chandigarh">
+                        <img data-src="/assets/img/Chandigarh/Chandigarh-main.jpg" class="card-img-top" alt="Chandigarh">
                         <noscript>
-                            <img src="/BFX/assets/img/Chandigarh/Chandigarh-main.jpg" class="card-img-top" alt="Chandigarh">
+                            <img src="/assets/img/Chandigarh/Chandigarh-main.jpg" class="card-img-top" alt="Chandigarh">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Chandigarh</h3>
@@ -514,9 +514,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Daman-and-Diu/d-d-main.jpg" class="card-img-top" alt="Daman and Diu">
+                        <img data-src="/assets/img/Daman-and-Diu/d-d-main.jpg" class="card-img-top" alt="Daman and Diu">
                         <noscript>
-                            <img src="/BFX/assets/img/Daman-and-Diu/d-d-main.jpg" class="card-img-top" alt="Daman and Diu">
+                            <img src="/assets/img/Daman-and-Diu/d-d-main.jpg" class="card-img-top" alt="Daman and Diu">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Daman and Diu</h3>
@@ -529,9 +529,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/delhi/delhi-main.jpg" class="card-img-top" alt="Delhi" height="43%">
+                        <img data-src="/assets/img/delhi/delhi-main.jpg" class="card-img-top" alt="Delhi" height="43%">
                         <noscript>
-                            <img src="/BFX/assets/img/delhi/delhi-main.jpg" class="card-img-top" alt="Delhi" height="43%">
+                            <img src="/assets/img/delhi/delhi-main.jpg" class="card-img-top" alt="Delhi" height="43%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Delhi</h3>
@@ -546,9 +546,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Jammu-&-Kashmir/jk-main.jpg" class="card-img-top" alt="Jammu & Kashmir" height="52%">
+                        <img data-src="/assets/img/Jammu-&-Kashmir/jk-main.jpg" class="card-img-top" alt="Jammu & Kashmir" height="52%">
                         <noscript>
-                            <img src="/BFX/assets/img/Jammu-&-Kashmir/jk-main.jpg" class="card-img-top" alt="Jammu & Kashmir" height="52%">
+                            <img src="/assets/img/Jammu-&-Kashmir/jk-main.jpg" class="card-img-top" alt="Jammu & Kashmir" height="52%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Jammu & Kashmir</h3>
@@ -561,9 +561,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Ladakh/Ladakh-main.jpg" class="card-img-top" alt="Ladakh">
+                        <img data-src="/assets/img/Ladakh/Ladakh-main.jpg" class="card-img-top" alt="Ladakh">
                         <noscript>
-                        <img src="/BFX/assets/img/Ladakh/Ladakh-main.jpg" class="card-img-top" alt="Ladakh">
+                        <img src="/assets/img/Ladakh/Ladakh-main.jpg" class="card-img-top" alt="Ladakh">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Ladakh</h3>
@@ -578,9 +578,9 @@
             <div class="row row-cols-1 row-cols-md-2 my-4">
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Lakshadweep/Lakshadweep-main.jpg" class="card-img-top" alt="Lakshadweep" height="40%">
+                        <img data-src="/assets/img/Lakshadweep/Lakshadweep-main.jpg" class="card-img-top" alt="Lakshadweep" height="40%">
                         <noscript>
-                            <img src="/BFX/assets/img/Lakshadweep/Lakshadweep-main.jpg" class="card-img-top" alt="Lakshadweep" height="40%">
+                            <img src="/assets/img/Lakshadweep/Lakshadweep-main.jpg" class="card-img-top" alt="Lakshadweep" height="40%">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Lakshadweep</h3>
@@ -593,9 +593,9 @@
                 </div>
                 <div class="col my-4">
                     <div class="card h-100">
-                        <img data-src="/BFX/assets/img/Puducherry/Puducherry-main.jpg" class="card-img-top" alt="Puducherry">
+                        <img data-src="/assets/img/Puducherry/Puducherry-main.jpg" class="card-img-top" alt="Puducherry">
                         <noscript>
-                            <img src="/BFX/assets/img/Puducherry/Puducherry-main.jpg" class="card-img-top" alt="Puducherry">
+                            <img src="/assets/img/Puducherry/Puducherry-main.jpg" class="card-img-top" alt="Puducherry">
                         </noscript>
                         <div class="card-body">
                             <h3 class="card-title text-center my-4">Puducherry</h3>

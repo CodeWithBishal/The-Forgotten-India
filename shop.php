@@ -30,7 +30,7 @@
     <div class="flex flex-wrap -mx-4 -mb-10 text-center">
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="/BFX/assets/shop/Madhubani-Paintings.jpg">
+          <img alt="content" class="object-cover object-center h-full w-full" src="/assets/shop/Madhubani-Paintings.jpg">
         </div>
         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Madhubani Paintings</h2>
         <p class="leading-relaxed text-base">Buy the Best Quality <strong>Madhubani Paintings</strong> at Best price</p>
@@ -38,7 +38,7 @@
       </div>
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="/BFX/assets/shop/artifacts.jpg">
+          <img alt="content" class="object-cover object-center h-full w-full" src="/assets/shop/artifacts.jpg">
         </div>
         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Artifacts</h2>
         <p class="leading-relaxed text-base">Buy the Best Quality <strong>Artifacts</strong> at Best price</p>
@@ -52,7 +52,7 @@
     <div class="flex flex-wrap -mx-4 -mb-10 text-center">
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="/BFX/assets/shop/bamboo.jpg">
+          <img alt="content" class="object-cover object-center h-full w-full" src="/assets/shop/bamboo.jpg">
         </div>
         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Bamboo Producs</h2>
         <p class="leading-relaxed text-base">Buy the Best Quality <strong>Babmoo Products</strong> at Best price</p>
@@ -60,7 +60,7 @@
       </div>
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="/BFX/assets/shop/Pashmina-shawls.jpg">
+          <img alt="content" class="object-cover object-center h-full w-full" src="/assets/shop/Pashmina-shawls.jpg">
         </div>
         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Pashmina Shawls</h2>
         <p class="leading-relaxed text-base">Buy the Best Quality <strong>Pashmina Shawls</strong> at Best price</p>
@@ -74,7 +74,7 @@
     <div class="flex flex-wrap -mx-4 -mb-10 text-center">
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="/BFX/assets/shop/Sandalwood-Products.jpg">
+          <img alt="content" class="object-cover object-center h-full w-full" src="/assets/shop/Sandalwood-Products.jpg">
         </div>
         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Sandalwood Products</h2>
         <p class="leading-relaxed text-base">Buy the Best Quality <strong>Sandalwood Products</strong> at Best price</p>
@@ -82,7 +82,7 @@
       </div>
       <div class="sm:w-1/2 mb-10 px-4">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="/BFX/assets/shop/jute-products.jpg">
+          <img alt="content" class="object-cover object-center h-full w-full" src="/assets/shop/jute-products.jpg">
         </div>
         <h2 class="title-font text-2xl font-medium text-gray-900 mt-6 mb-3">Sandalwood Products</h2>
         <p class="leading-relaxed text-base">Buy the Best Quality <strong>Sandalwood Products</strong> at Best price</p>
