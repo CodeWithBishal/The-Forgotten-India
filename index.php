@@ -20,6 +20,15 @@
     <link rel="icon" type="image/svg" sizes="32x32" href="https://codewithbishal.com/static/logo/logo-32x32.svg">
     <link rel="icon" type="image/svg" sizes="16x16" href="https://codewithbishal.com/static/logo/logo-16x16.svg">
     <title>The Forgotten India</title>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RT2E85JXED"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RT2E85JXED');
+</script>
 </head>
 
 <body>
